@@ -32,7 +32,9 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://portfolio-marco-gonzalez26.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/marco-gonzalez-77341b1b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:magp260602@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://portfolio-marco-gonzalez26.vercel.app/"></a>
+  <br/>
+<a href="https://www.linkedin.com/in/marco-gonzalez-77341b1b7/"></a>
+  <br/>
+<a href="mailto:magp260602@gmail.com"></a>
 </p>
