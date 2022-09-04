@@ -25,16 +25,15 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+
 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://portfolio-marco-gonzalez26.vercel.app/"></a>
+<a href="https://portfolio-marco-gonzalez26.vercel.app/">Website</a>
   <br/>
-<a href="https://www.linkedin.com/in/marco-gonzalez-77341b1b7/"></a>
+<a href="https://www.linkedin.com/in/marco-gonzalez-77341b1b7/">Linkedin</a>
   <br/>
-<a href="mailto:magp260602@gmail.com"></a>
+<a href="mailto:magp260602@gmail.com">Email</a>
 </p>
